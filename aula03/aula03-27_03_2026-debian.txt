@@ -1,0 +1,49 @@
+    1  cat /etc/os-release/
+    2  cat /etc/os-release
+    3  sudo yum check-update
+    4  sudo apt-get update
+    5  sudo apt install tree
+    6  sudo apt-get install tree
+    7  cd 
+    8  mkdir file1 file2 file3
+    9  ls -l
+   10  mkdir file*10
+   11  ls -l
+   12  rmdir file*10
+   13  ls -l
+   14  mkdir file>10
+   15  ls -l
+   16  cd file
+   17  dir
+   18  ls -l
+   19  ls -la
+   20  cd ..
+   21  rmdir file
+   22  ls -l
+   23  exit
+   24  cd 
+   25  history > aula03-27_03_2026.txt
+   26  ls
+   27  cat aula03-27_03_2026
+   28  cat /aula03-27_03_2026
+   29  cat
+   30  ls
+   31  cat aula03-27_03_2026.txt
+   32  history > aula03-27_03_2026-debian.txt
+   33  git clone https://github.com/LuzBGouveia/DevOps-linux.git
+   34  sudo apt-get install git
+   35  git clone https://github.com/LuzBGouveia/DevOps-linux.git
+   36  cd DevIos-linux
+   37  ls -l
+   38  cd DevOps-linux
+   39  git checkout -d "Aula03-27_03_2026"
+   40  git branch
+   41  git checkout -b "Aula03-27_03_2026"
+   42  ls -l
+   43  rmdir aula01
+   44  sudo rmdir
+   45  rm -rf aula01
+   46  ls -l
+   47  mkdir aula03
+   48  cd aula03
+   49  history > aula03-27_03_2026-debian.txt
