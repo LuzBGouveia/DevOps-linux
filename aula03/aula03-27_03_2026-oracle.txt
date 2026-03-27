@@ -1,0 +1,21 @@
+    1  sudo apt-get update
+    2  sudo yum check-update
+    3  sudo apt install tree
+    4  sudo yum install tree
+    5  cat /etc/os-releas
+    6  cat /etc/os-release
+    7  history > aula03-27_03_2026-oracle.txt
+    8  ls
+    9  cat aula03-27_03_2026-oracle.txt
+   10* sudo 
+   11  sudo yum install git
+   12  git clone https://github.com/LuzBGouveia/DevOps-linux.git
+   13  cd DevOps-Linux
+   14  ls -l
+   15  cd DevOps-linux/
+   16  ls -l
+   17  git checkout "Aula03-27_03_2026.txt"
+   18  git checkout "Aula03-27_03_2026"
+   19  ls -l
+   20  cd aula03
+   21  history > aula03-27_03_2026-oracle.txt
